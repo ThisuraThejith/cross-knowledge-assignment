@@ -9,7 +9,7 @@ You will be able to find the solutions for the Cross Knowledge [technical challe
 The implementation (request.php) can be found inside the 'php-assignment' directory.
 #### Steps to execute the cache functionality
 1. Install the [phpredis](https://github.com/phpredis/phpredis) extension
-2. Place the 'request.php' file inside the local php server. (I've used the LAMP stack).
+2. Place the 'request.php' file inside the local php server. (I've used the LAMP stack and localhost).
 3. Inside the file there will be a place where an instance of the 'SimpleJsonRequest' class is created and the functionality is executed as follows.
 ```php
 $simpleJsonRequest = new SimpleJsonRequest();
