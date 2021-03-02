@@ -37,11 +37,11 @@ The implementation of the solution for this part of the challenge can be found i
 
 #### Steps to execute the date formatting functionality
 1. Open the 'date-format.html' file with the web browser.
-- **Important**: The 'date-format.js' javascript file must be at the same level as the 'date-format.html'. (i.e. They both should be inside a same directory).
+- **Important**: The 'date-format.js' javascript file must be in the same level as the 'date-format.html'. (i.e. They both should be inside a same directory).
 
 ## 3. Apply style
 The implementation of the solution for this part of the challenge can be found inside the 'css-assignment' directory.
 
 #### Steps to execute the style functionality
 1. Open the 'component.html' file with the web browser.
-- **Important**: The 'component.css' css file must be at the same level as the 'component.html'. (i.e. They both should be inside a same directory).
+- **Important**: The 'component.css' css file must be in the same level as the 'component.html'. (i.e. They both should be inside a same directory).
